@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8581
     wikipedia: http://en.wikipedia.org/wiki/Edward_Feild
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19301#Extracts-from-a-Journal-of-a-Voyage-of-Visitation-in-the--Hawk---1859
 gutenberg_issued: '2006-09-16'
 gutenberg_type: Text
 identifiers:
